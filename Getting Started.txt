@@ -1,0 +1,125 @@
+
+	
+	███████╗░█████╗░██████╗░███████╗██╗░░░██╗███████╗██████╗░███╗░░░███╗███████╗████████╗██╗███╗░░██╗██████╗░
+	██╔════╝██╔══██╗██╔══██╗██╔════╝██║░░░██║██╔════╝██╔══██╗████╗░████║██╔════╝╚══██╔══╝██║████╗░██║╚════██╗
+	█████╗░░██║░░██║██████╔╝█████╗░░╚██╗░██╔╝█████╗░░██████╔╝██╔████╔██║█████╗░░░░░██║░░░██║██╔██╗██║░░███╔═╝
+	██╔══╝░░██║░░██║██╔══██╗██╔══╝░░░╚████╔╝░██╔══╝░░██╔══██╗██║╚██╔╝██║██╔══╝░░░░░██║░░░██║██║╚████║██╔══╝░░
+	██║░░░░░╚█████╔╝██║░░██║███████╗░░╚██╔╝░░███████╗██║░░██║██║░╚═╝░██║███████╗░░░██║░░░██║██║░╚███║███████╗
+	╚═╝░░░░░░╚════╝░╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝╚═╝░░╚══╝╚══════╝
+
+	Hello,
+	
+	Thank you for downloading Forevermetin2, and maybe you will be someone to help me develop it further.
+	Everything you read here was written in German and translated into English via Google Translator. So if
+	you get something funny to read here and there maybe a gramatic error, report it to me, and tell me how it
+	is right.
+	
+	Forevermetin2 means a lot to myself, and I avoid contact with people who want to harm a thing or someone.
+	There will therefore be certain functions that require a login as well as URL from different pages. DLL
+	manipulation would therefore not be advisable, and I am not liable for viruses if you take another DLL.
+	
+
+	██████╗░░█████╗░░█████╗░██╗░░██╗░█████╗░░██████╗░███████╗  ██╗███╗░░██╗███████╗░█████╗░
+	██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔════╝░██╔════╝  ██║████╗░██║██╔════╝██╔══██╗
+	██████╔╝███████║██║░░╚═╝█████═╝░███████║██║░░██╗░█████╗░░  ██║██╔██╗██║█████╗░░██║░░██║
+	██╔═══╝░██╔══██║██║░░██╗██╔═██╗░██╔══██║██║░░╚██╗██╔══╝░░  ██║██║╚████║██╔══╝░░██║░░██║
+	██║░░░░░██║░░██║╚█████╔╝██║░╚██╗██║░░██║╚██████╔╝███████╗  ██║██║░╚███║██║░░░░░╚█████╔╝
+	╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚══════╝  ╚═╝╚═╝░░╚══╝╚═╝░░░░░░╚════╝░
+
+	Version:			r2.0
+	
+	File Name:			Forevermetin2.rar
+	RAR Size:			80.9 MB (5 Files, please look at "Content")
+	Full Size:			102  MB (262 Files) & (36 Folders)
+	Release Date:		10.05.2022
+	Last Change:		10.05.2022
+	VirusTotal:			Please look at "Content"
+	Original Thread:	https://metin2.dev/topic/22424-forever-metin2/
+	Homepage:			https://www.forevermetin2.ovh/
+	
+	Content:
+
+		> extract_me_bgm.rar	54.2 MB
+		  https://www.virustotal.com/gui/file/
+		  ec60bd314ed37c05e5d0d56677201246009db7a1a298968c2bf7d3d06cba85ef
+		  
+		> extract_me_dll.rar	14.1 KB
+		  https://www.virustotal.com/gui/file/
+		  033523e77149ce25f8e95223fc5949b6c6582ed253164569f54ee2874e5cdbe1?nocache=1
+		  
+		  Trojan.Malware.300983.susgen by MaxSecure Antivirus. I don't know if I have a character
+		  or anything else in my DLL that leads to these results, but you have my word that I do not
+		  spread viruses. Anyone who can explain this "mistake" to me is very welcome to contact me.
+		  I am happy about the solution.
+		  
+		> extract_me_exe.rar	18.7 MB
+		  https://www.virustotal.com/gui/file/
+		  97b7f279f8bb483b0105a97b8c3220b691a39912b89aa86730d605eb24d0e8c7?nocache=1
+		  
+		  
+		> extract_me_pack.rar	7.92 MB
+		  https://www.virustotal.com/gui/file/
+		  7888030ced45bf1f1c774c11dd84d27a8230685c5cc6b7d317f233d9c712046c?nocache=1
+
+	I have therefore packed the files 2 times so that first of all the package is not too big and so that you
+	can still see what is in it.
+
+
+	░██████╗░███████╗████████╗████████╗██╗███╗░░██╗░██████╗░  ░██████╗████████╗░█████╗░██████╗░████████╗███████╗██████╗░
+	██╔════╝░██╔════╝╚══██╔══╝╚══██╔══╝██║████╗░██║██╔════╝░  ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗
+	██║░░██╗░█████╗░░░░░██║░░░░░░██║░░░██║██╔██╗██║██║░░██╗░  ╚█████╗░░░░██║░░░███████║██████╔╝░░░██║░░░█████╗░░██║░░██║
+	██║░░╚██╗██╔══╝░░░░░██║░░░░░░██║░░░██║██║╚████║██║░░╚██╗  ░╚═══██╗░░░██║░░░██╔══██║██╔══██╗░░░██║░░░██╔══╝░░██║░░██║
+	╚██████╔╝███████╗░░░██║░░░░░░██║░░░██║██║░╚███║╚██████╔╝  ██████╔╝░░░██║░░░██║░░██║██║░░██║░░░██║░░░███████╗██████╔╝
+	░╚═════╝░╚══════╝░░░╚═╝░░░░░░╚═╝░░░╚═╝╚═╝░░╚══╝░╚═════╝░  ╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝╚═════╝░
+	 
+	Please follow these steps to use Forevermetin2.
+		
+		1. Check all .rar files again for viruses
+	
+		2. Unzip all .rar files
+			> extract_me_bgm.rar:	Here you will find the background music so BGM
+			> extract_me_dll:		Here you will find all download links and important for the patcher function.
+			> extract_me_exe:		Here you can find the main tool
+			> extract_me_pack:		Here you will find all texts that the tool loads and controls
+			
+		3. After you have unpacked everything, it should look like this
+			Forevermetin2/
+			> bgm
+			> pack
+			> data.dll
+			> ForeverMetin2.exe
+			> raiin.dll
+			> script.dll
+			> url.dll
+		
+		4. Now start Forevermetin2 and log in as a guest, or if you have an account you log in with it.
+
+
+	██╗░░░██╗██████╗░██████╗░░█████╗░████████╗███████╗
+	██║░░░██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
+	██║░░░██║██████╔╝██║░░██║███████║░░░██║░░░█████╗░░
+	██║░░░██║██╔═══╝░██║░░██║██╔══██║░░░██║░░░██╔══╝░░
+	╚██████╔╝██║░░░░░██████╔╝██║░░██║░░░██║░░░███████╗
+	░╚═════╝░╚═╝░░░░░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚══════╝
+	
+	If an update is befor, a question mark appears when logging in, and the revision font changes to red.
+	Click on the question mark to see what's new. To update click on the "X" button in the Main window. A
+	menu appears and there you select "Info". Now confirm the update and wait until everything is downloaded.
+	
+	After everything has been downloaded, please close Forevermetin2 and replace all dll's and the ForeverMetin2.exe
+	with the new one in folder "update". After that, you can delete "update folder".
+
+
+	██╗░░██╗░█████╗░██╗░░░██╗███████╗  ███████╗██╗░░░██╗███╗░░██╗
+	██║░░██║██╔══██╗██║░░░██║██╔════╝  ██╔════╝██║░░░██║████╗░██║
+	███████║███████║╚██╗░██╔╝█████╗░░  █████╗░░██║░░░██║██╔██╗██║
+	██╔══██║██╔══██║░╚████╔╝░██╔══╝░░  ██╔══╝░░██║░░░██║██║╚████║
+	██║░░██║██║░░██║░░╚██╔╝░░███████╗  ██║░░░░░╚██████╔╝██║░╚███║
+	╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝  ╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
+
+	The tool is very close to my heart and that's why it's one of my main projects as well as an interesting hobby.
+	I dedicate it to the Metin2 community and it helps to learn new things. Send me your suggestions and ideas via
+	the feedback function, and I'll see if I can get in touch with you.
+
+	With best regards
+	Ace
